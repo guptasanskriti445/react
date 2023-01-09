@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "Shikhar Dhawan",
+      "username": "dhawansikhar",
+      "email": "dhawan@gmail.com",
+      "phone": "4569874563",
+      "id": 6
+    },
+    {
+      "name": "Pankaj Tripathi",
+      "username": "pankajtripathi",
+      "email": "pankaj@gmail.com",
+      "phone": "9658965236",
+      "id": 8
+    },
+    {
+      "name": "Sanskriti Gupta",
+      "username": "sansgupta",
+      "email": "guptasanskriti@yopmail.com",
+      "phone": "3333444444",
+      "id": 9
+    },
+    {
+      "name": "skjfdll",
+      "username": "dsjflkj",
+      "email": "sdafjlkdjs@gmail.com",
+      "phone": "3333435432523",
+      "id": 10
+    }
+  ]
+}
